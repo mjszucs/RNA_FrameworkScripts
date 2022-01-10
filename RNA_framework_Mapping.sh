@@ -10,7 +10,7 @@
 # -bdp -> number of extra refrences bases included on DP table
 # -bmp -> maximum and minimum mismatch penalties
 
-
+#t
 
 
 
